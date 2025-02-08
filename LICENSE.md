@@ -1,0 +1,7 @@
+- You're not allowed to:
+  - Copy the code of this add-on and use it in your pack
+  - Share this pack under your name
+  - Using it for commercial purposes
+- You're allowed to:
+  - Learn from the pack's code
+  - Change the pack's code for personal use or integration in your pack/world.
