@@ -4,7 +4,7 @@
 		"description": {
 			"identifier": "sk:kits_manager",
 			"menu_category": {
-				"category": "nature"
+				"category": "items"
 			}
 		},
 		"components": {
